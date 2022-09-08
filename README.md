@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Shriniwas
+### 👋 Hi, I’m Shriniwas
 I'm interested in deep learning for computer vision and robotics
 
 <!---
