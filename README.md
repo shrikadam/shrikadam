@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Shri!
-I'm interested in robotic perception and control; currently working on visual servoing projects.
+I'm interested in intelligent robotic perception and control. My current area of work is in visual servoing.
 
 <!---
 shrikadam/shrikadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
