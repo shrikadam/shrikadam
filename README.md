@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Shriniwas
+### 👋 Hi, I’m Shri!
 I'm interested in robotic perception and control; currently working on visual servoing projects.
 
 <!---
